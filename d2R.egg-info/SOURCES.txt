@@ -1,0 +1,7 @@
+hello.py
+d2R.egg-info/PKG-INFO
+d2R.egg-info/SOURCES.txt
+d2R.egg-info/dependency_links.txt
+d2R.egg-info/entry_points.txt
+d2R.egg-info/requires.txt
+d2R.egg-info/top_level.txt

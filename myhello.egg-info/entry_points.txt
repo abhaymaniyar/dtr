@@ -1,0 +1,4 @@
+
+		[console_scripts]
+		dtr=hello:cli
+	
